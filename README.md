@@ -1,6 +1,6 @@
 ### Hi there, I'm Alfonso 👋
 
-- 🎓 Last year economics student
+- 🎓 Last year Economics student
 - 🔭 I’m currently working on a Python project
 - 💬 Ask me about Economics
 

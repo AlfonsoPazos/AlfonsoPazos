@@ -34,13 +34,13 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="50%" align="center">
+      <td width="25%" align="center">
 	      <span><strong>Julia</strong></span><br><br><br>
-        <img height="100px" src="https://en.wikipedia.org/wiki/Julia_(programming_language)#/media/File:Julia_Programming_Language_Logo.svg">
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg">
       </td>
-      <td width="50%" align="center">
+      <td width="25%" align="center">
 	      <span><strong>Matlab</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
      </tr>
   </tbody>
 </table>

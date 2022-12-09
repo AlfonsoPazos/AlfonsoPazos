@@ -23,7 +23,7 @@
       </td>
       <td width="25%" align="center">
         <span><strong>EViews</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/en/3/37/EViews_logo.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/EViews_logo.svg/1920px-EViews_logo.svg.png">
       </td>
      </tr>
   </tbody>
@@ -36,11 +36,11 @@
     <tr valign="top">
       <td width="25%" align="center">
 	      <span><strong>Julia</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg">
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1920px-Julia_Programming_Language_Logo.svg.png">
       </td>
       <td width="25%" align="center">
 	      <span><strong>Matlab</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png?20170128174110">
      </tr>
   </tbody>
 </table>

@@ -15,11 +15,11 @@
       </td>
       <td width="25%" align="center">
 	      <span><strong>R</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg](https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n)#/media/Archivo:R_logo.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg](https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n)#/media/Archivo:R_logo.svg.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Stata</strong></span><br><br><br>
-        <img height="100px" src="https://es.wikipedia.org/wiki/Stata#/media/Archivo:Stata_2015_logo.gif">
+        <img height="100px" src="https://es.wikipedia.org/wiki/Stata#/media/Archivo:Stata_2015_logo.gif.png">
       </td>
       <td width="25%" align="center">
         <span><strong>EViews</strong></span><br><br><br>

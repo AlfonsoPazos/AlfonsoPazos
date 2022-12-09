@@ -15,7 +15,7 @@
       </td>
       <td width="25%" align="center">
 	      <span><strong>R</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" >
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20160212050515" >
       </td>
       <td width="25%" align="center">
         <span><strong>Stata</strong></span><br><br><br>

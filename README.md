@@ -4,15 +4,14 @@
 - 🔭 I’m currently working on a Python project
 - 💬 Ask me about Economics
 
-##### Experience
-
-- I've worked building databases and running regressions in the languages that I know of. Furthermore, I have built the regression models in Python and R. On the other hand, I know more complex techniques like WebScraping to build large databases.
-
-
 ##### My values
 - 🏃 Responsible and persevering
 - 👂 Reliable and honest
 - 🕐 Punctual
+
+##### Experience
+
+- I've worked building databases and running regressions in the languages that I know of. Furthermore, I have built the regression models in Python and R. On the other hand, I know more complex techniques like WebScraping to build large databases.
 
 ##### Languages I use
 
